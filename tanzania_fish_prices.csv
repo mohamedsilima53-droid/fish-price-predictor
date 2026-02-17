@@ -1,0 +1,801 @@
+species,source_type,region,season,market_type,quality_grade,weight_kg,freshness_days,distance_to_market_km,quantity_kg,price_tzs
+Nile Tilapia,Freshwater,Pemba,Rainy,Export,Grade B,8.86,7,162,270.0,14182.21
+Sea Bass,Ocean/Sea,Mtwara,Rainy,Export,Grade A,14.55,1,282,357.4,36650.76
+Prawns,Ocean/Sea,Pemba,Dry,Export,Grade B,0.48,7,207,422.1,37250.32
+Kingfish,Ocean/Sea,Lindi,Rainy,Export,Grade A,11.91,0,70,120.6,37398.23
+Electric Catfish,Freshwater,Pemba,Dry,Wholesale,Grade B,12.38,4,112,271.1,13819.46
+Mackerel,Ocean/Sea,Mwanza,Dry,Wholesale,Grade B,12.86,1,272,498.7,14721.64
+Nile Tilapia,Freshwater,Tanga,Dry,Wholesale,Grade C,5.07,3,226,394.6,6145.34
+Sea Bream,Ocean/Sea,Kilwa,Rainy,Restaurant/Hotel,Grade B,14.37,5,296,249.7,23365.79
+Grouper,Ocean/Sea,Mtwara,Dry,Local Market,Grade B,2.1,7,22,399.7,17331.03
+Parrotfish,Ocean/Sea,Dodoma,Rainy,Local Market,Grade C,4.23,7,94,75.3,6438.79
+Kingfish,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade A,17.59,2,185,243.9,33408.32
+Kingfish,Ocean/Sea,Kilwa,Rainy,Export,Grade A,14.85,6,259,476.9,33335.22
+Red Mullet,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade B,0.57,2,257,136.2,9092.33
+Mackerel,Ocean/Sea,Tanga,Rainy,Local Market,Grade B,5.19,1,261,115.6,9003.87
+Catfish,Freshwater,Mtwara,Dry,Restaurant/Hotel,Grade B,4.52,2,387,570.7,8936.07
+Electric Catfish,Freshwater,Zanzibar,Rainy,Local Market,Grade C,5.63,2,350,129.9,5902.37
+Red Mullet,Ocean/Sea,Dodoma,Rainy,Restaurant/Hotel,Grade B,5.18,0,91,160.2,17028.54
+Dagaa,Freshwater,Mwanza,Rainy,Export,Grade B,1.53,7,94,581.9,1813.04
+Swordfish,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,9.34,3,241,442.2,22908.73
+Mackerel,Ocean/Sea,Tanga,Dry,Export,Grade C,14.73,6,394,421.3,15750.53
+Tilapia,Freshwater,Kilwa,Dry,Local Market,Grade C,12.25,3,74,512.5,11843.1
+Red Mullet,Ocean/Sea,Mwanza,Rainy,Local Market,Grade C,13.56,0,48,73.9,16767.65
+Red Snapper,Ocean/Sea,Pemba,Dry,Local Market,Grade A,1.9,0,204,425.0,21926.36
+Lungfish,Freshwater,Lindi,Rainy,Wholesale,Grade B,19.04,2,156,304.7,13725.98
+Tilapia,Freshwater,Mwanza,Rainy,Export,Grade A,16.82,4,90,498.3,19188.73
+Mackerel,Ocean/Sea,Tanga,Dry,Local Market,Grade A,16.16,7,23,307.3,20889.61
+Nile Perch,Freshwater,Arusha,Rainy,Export,Grade A,16.51,5,105,374.0,27355.6
+Red Snapper,Ocean/Sea,Lindi,Rainy,Wholesale,Grade B,18.67,7,99,289.3,17675.58
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade B,11.02,5,258,289.5,20632.7
+Swordfish,Ocean/Sea,Dodoma,Rainy,Export,Grade A,4.25,2,361,461.9,45764.9
+Red Snapper,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,12.45,5,34,379.0,17008.87
+Crab,Ocean/Sea,Mwanza,Rainy,Local Market,Grade B,14.93,0,253,381.8,22427.24
+Barracuda,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,14.84,3,37,272.9,15675.85
+Yellowfin Tuna,Ocean/Sea,Tanga,Dry,Local Market,Grade A,10.57,5,233,321.0,33373.42
+Yellowfin Tuna,Ocean/Sea,Pemba,Dry,Export,Grade B,1.65,7,16,448.7,34779.23
+Tuna,Ocean/Sea,Kilwa,Dry,Wholesale,Grade B,7.61,6,122,496.4,17845.0
+Lobster,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,18.44,2,354,419.5,48490.42
+Prawns,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade A,11.81,4,159,554.8,44099.7
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade B,10.91,2,397,493.1,29324.96
+Grouper,Ocean/Sea,Mwanza,Rainy,Restaurant/Hotel,Grade C,5.6,1,250,339.3,18131.96
+Red Snapper,Ocean/Sea,Kilwa,Rainy,Export,Grade B,7.56,2,336,404.5,21233.85
+Parrotfish,Ocean/Sea,Zanzibar,Rainy,Wholesale,Grade B,17.94,0,251,556.2,17630.92
+Sea Bass,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade B,13.43,3,33,373.4,28968.15
+Crab,Ocean/Sea,Tanga,Dry,Local Market,Grade B,15.81,3,165,495.8,27837.69
+Dagaa,Freshwater,Arusha,Dry,Export,Grade A,9.25,6,239,414.8,9700.97
+Sardine,Freshwater,Dodoma,Dry,Restaurant/Hotel,Grade B,12.72,5,194,333.4,10412.5
+Grouper,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade C,5.19,0,121,148.9,18113.42
+Nile Tilapia,Freshwater,Tanga,Dry,Wholesale,Grade B,14.2,1,275,258.5,14120.22
+Mackerel,Ocean/Sea,Tanga,Dry,Wholesale,Grade C,8.72,0,262,580.8,9120.14
+Carp,Freshwater,Dodoma,Rainy,Local Market,Grade B,9.02,2,184,396.4,8159.48
+Nile Tilapia,Freshwater,Zanzibar,Rainy,Local Market,Grade A,13.09,0,377,340.8,14292.17
+Sailfish,Ocean/Sea,Tanga,Dry,Export,Grade C,18.74,0,176,560.1,36288.45
+Catfish,Freshwater,Arusha,Dry,Export,Grade A,1.56,6,278,354.0,10802.71
+Crab,Ocean/Sea,Tanga,Dry,Wholesale,Grade B,16.55,1,263,318.0,23312.41
+Squid,Ocean/Sea,Tanga,Dry,Restaurant/Hotel,Grade A,6.06,2,139,456.8,22290.27
+Sailfish,Ocean/Sea,Tanga,Rainy,Export,Grade A,9.05,4,175,429.0,39133.33
+Sea Bream,Ocean/Sea,Pemba,Dry,Local Market,Grade B,0.73,6,214,119.9,13728.88
+Carp,Freshwater,Pemba,Dry,Wholesale,Grade A,6.23,4,240,285.4,7502.8
+Sea Bream,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,10.2,6,190,286.1,16010.39
+Mackerel,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade B,1.41,3,368,230.0,5326.59
+Tilapia,Freshwater,Tanga,Rainy,Export,Grade A,9.97,7,99,312.8,15693.58
+Sea Bass,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade A,18.56,6,382,250.8,20568.25
+Prawns,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,2.38,5,15,123.6,17659.33
+Nile Tilapia,Freshwater,Zanzibar,Dry,Export,Grade B,15.36,0,72,250.4,23980.37
+Red Snapper,Ocean/Sea,Mtwara,Dry,Export,Grade B,8.37,3,383,48.0,28453.77
+Electric Catfish,Freshwater,Dar es Salaam,Rainy,Export,Grade B,13.21,1,214,347.6,17147.58
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade C,5.43,4,200,512.9,18856.79
+Dagaa,Freshwater,Lindi,Dry,Wholesale,Grade B,3.44,7,373,436.5,1000.0
+Squid,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,3.46,7,102,219.4,5140.31
+Barracuda,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,1.69,6,97,56.8,9176.41
+Catfish,Freshwater,Arusha,Dry,Local Market,Grade A,3.96,0,26,125.3,10257.6
+Sailfish,Ocean/Sea,Pemba,Rainy,Local Market,Grade B,13.39,1,176,329.6,24464.64
+Electric Catfish,Freshwater,Pemba,Dry,Export,Grade B,17.67,5,387,128.2,18853.75
+Catfish,Freshwater,Mwanza,Dry,Export,Grade B,16.34,1,138,328.7,21644.51
+Tilapia,Freshwater,Dodoma,Dry,Export,Grade B,13.8,0,29,142.8,21878.49
+Lungfish,Freshwater,Dodoma,Dry,Local Market,Grade C,2.48,5,189,510.1,1070.97
+Swordfish,Ocean/Sea,Zanzibar,Rainy,Export,Grade C,6.0,1,89,241.4,28992.5
+Tuna,Ocean/Sea,Mwanza,Rainy,Export,Grade C,6.4,5,59,151.1,21164.1
+Catfish,Freshwater,Dar es Salaam,Rainy,Export,Grade B,5.22,6,255,488.3,7391.51
+Swordfish,Ocean/Sea,Dodoma,Rainy,Restaurant/Hotel,Grade B,10.45,6,148,209.0,31801.51
+Sailfish,Ocean/Sea,Tanga,Dry,Local Market,Grade B,10.85,0,355,71.3,29776.3
+Sea Bream,Ocean/Sea,Kilwa,Dry,Wholesale,Grade B,7.33,0,171,344.4,15876.46
+Red Snapper,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade B,7.27,5,228,351.0,20401.04
+Tilapia,Freshwater,Arusha,Dry,Export,Grade B,16.62,2,224,430.2,22273.29
+Tuna,Ocean/Sea,Tanga,Dry,Wholesale,Grade B,15.85,3,183,147.9,22799.49
+Catfish,Freshwater,Tanga,Dry,Wholesale,Grade B,6.36,7,123,269.0,5107.95
+Squid,Ocean/Sea,Mwanza,Rainy,Restaurant/Hotel,Grade A,18.3,1,269,173.0,23651.61
+Lobster,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,19.07,1,154,53.2,39495.46
+Prawns,Ocean/Sea,Arusha,Rainy,Local Market,Grade A,6.74,2,219,526.6,26317.23
+Electric Catfish,Freshwater,Dodoma,Dry,Wholesale,Grade C,7.28,2,201,438.7,6255.44
+Squid,Ocean/Sea,Mwanza,Rainy,Export,Grade B,10.26,2,46,184.4,17524.06
+Parrotfish,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,18.84,4,57,361.6,22569.6
+Crab,Ocean/Sea,Mwanza,Rainy,Local Market,Grade A,17.56,4,334,124.8,25440.3
+Electric Catfish,Freshwater,Mwanza,Rainy,Local Market,Grade B,2.32,5,255,534.7,4042.84
+Mackerel,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,8.04,4,299,73.4,9510.09
+Lobster,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,11.2,6,382,7.3,31896.53
+Octopus,Ocean/Sea,Mwanza,Dry,Local Market,Grade A,10.21,6,275,303.7,21290.28
+Sailfish,Ocean/Sea,Mtwara,Dry,Local Market,Grade B,4.12,0,127,352.0,24614.05
+Prawns,Ocean/Sea,Kilwa,Rainy,Export,Grade B,17.22,7,371,349.5,35283.85
+Mackerel,Ocean/Sea,Dodoma,Rainy,Local Market,Grade B,13.64,5,391,37.4,12594.87
+Red Mullet,Ocean/Sea,Dar es Salaam,Dry,Export,Grade B,16.81,7,343,191.9,30908.87
+Sea Bream,Ocean/Sea,Lindi,Dry,Local Market,Grade B,17.22,1,270,302.0,25086.24
+Crab,Ocean/Sea,Arusha,Rainy,Wholesale,Grade A,15.04,3,352,133.9,20969.66
+Octopus,Ocean/Sea,Pemba,Rainy,Local Market,Grade C,8.95,0,33,524.2,14285.77
+Carp,Freshwater,Zanzibar,Rainy,Export,Grade B,12.33,1,39,56.8,12081.7
+Prawns,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,3.46,1,10,295.0,15553.42
+Octopus,Ocean/Sea,Tanga,Dry,Wholesale,Grade A,13.57,5,115,416.4,20143.5
+Nile Perch,Freshwater,Mtwara,Rainy,Export,Grade B,3.83,2,298,160.7,15749.32
+Crab,Ocean/Sea,Pemba,Rainy,Local Market,Grade A,13.97,2,81,376.4,26932.86
+Nile Tilapia,Freshwater,Lindi,Rainy,Local Market,Grade B,4.82,7,353,498.5,3793.32
+Carp,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade C,2.62,0,151,118.3,3836.42
+Red Mullet,Ocean/Sea,Pemba,Dry,Restaurant/Hotel,Grade B,3.56,2,71,550.7,21348.79
+Nile Perch,Freshwater,Dar es Salaam,Dry,Wholesale,Grade A,0.34,1,396,334.4,12687.33
+Red Snapper,Ocean/Sea,Mtwara,Dry,Export,Grade A,14.46,2,12,183.0,41142.69
+Electric Catfish,Freshwater,Lindi,Rainy,Wholesale,Grade B,14.73,4,126,261.4,11185.97
+Red Mullet,Ocean/Sea,Tanga,Rainy,Export,Grade A,10.44,2,344,190.8,26851.3
+Kingfish,Ocean/Sea,Mwanza,Dry,Local Market,Grade A,3.48,1,179,436.4,25872.66
+Grouper,Ocean/Sea,Dodoma,Rainy,Export,Grade B,1.95,7,392,478.8,18920.14
+Barracuda,Ocean/Sea,Tanga,Rainy,Restaurant/Hotel,Grade B,0.68,5,183,500.6,14108.75
+Electric Catfish,Freshwater,Mwanza,Dry,Local Market,Grade A,3.57,0,89,591.5,14797.46
+Dagaa,Freshwater,Zanzibar,Dry,Wholesale,Grade C,17.85,3,49,475.8,10070.94
+Dagaa,Freshwater,Kilwa,Dry,Local Market,Grade A,5.06,2,140,362.8,5966.52
+Nile Perch,Freshwater,Arusha,Dry,Export,Grade C,7.28,6,347,206.8,16554.8
+Yellowfin Tuna,Ocean/Sea,Arusha,Rainy,Local Market,Grade B,2.38,6,20,329.0,16655.96
+Sardine,Freshwater,Dodoma,Rainy,Export,Grade C,4.68,7,337,29.4,3848.85
+Tuna,Ocean/Sea,Lindi,Dry,Wholesale,Grade B,10.53,1,199,448.2,19762.05
+Nile Tilapia,Freshwater,Mtwara,Rainy,Local Market,Grade C,12.27,3,13,270.3,10211.99
+Sea Bream,Ocean/Sea,Lindi,Dry,Wholesale,Grade C,5.13,3,320,16.9,9069.2
+Carp,Freshwater,Mtwara,Dry,Wholesale,Grade A,1.44,4,338,42.2,3939.48
+Nile Tilapia,Freshwater,Lindi,Rainy,Restaurant/Hotel,Grade C,8.0,3,337,235.5,9638.12
+Carp,Freshwater,Kilwa,Dry,Local Market,Grade B,4.91,6,331,352.1,4745.62
+Electric Catfish,Freshwater,Zanzibar,Rainy,Export,Grade B,4.63,5,19,281.2,11194.34
+Red Snapper,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,19.21,1,331,373.4,20169.01
+Tilapia,Freshwater,Mwanza,Rainy,Restaurant/Hotel,Grade B,12.44,1,106,290.8,15032.38
+Nile Perch,Freshwater,Pemba,Rainy,Restaurant/Hotel,Grade A,11.27,2,230,398.7,22855.7
+Lobster,Ocean/Sea,Zanzibar,Dry,Export,Grade B,8.49,2,282,135.4,68084.44
+Parrotfish,Ocean/Sea,Zanzibar,Rainy,Wholesale,Grade B,8.75,2,117,72.1,11122.32
+Parrotfish,Ocean/Sea,Tanga,Dry,Export,Grade B,10.96,6,5,359.9,25695.36
+Red Mullet,Ocean/Sea,Tanga,Dry,Export,Grade C,14.02,6,270,293.4,20559.73
+Sardine,Freshwater,Mwanza,Dry,Local Market,Grade B,14.13,7,212,21.0,7268.55
+Dagaa,Freshwater,Pemba,Dry,Wholesale,Grade B,3.68,6,114,231.4,3500.49
+Red Snapper,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,10.15,6,204,68.1,18173.68
+Electric Catfish,Freshwater,Tanga,Rainy,Wholesale,Grade A,8.42,6,373,321.2,7894.34
+Swordfish,Ocean/Sea,Dodoma,Dry,Wholesale,Grade A,17.45,6,310,240.5,33648.96
+Yellowfin Tuna,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade B,12.74,5,16,369.8,24318.02
+Dagaa,Freshwater,Tanga,Rainy,Local Market,Grade A,10.79,6,349,484.3,6388.14
+Nile Perch,Freshwater,Kilwa,Dry,Local Market,Grade C,2.57,7,192,183.3,6481.57
+Dagaa,Freshwater,Pemba,Rainy,Local Market,Grade B,12.23,3,158,577.5,6846.49
+Sardine,Freshwater,Mwanza,Dry,Export,Grade B,2.61,3,372,323.7,5355.47
+Prawns,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,6.94,4,338,372.9,19683.72
+Squid,Ocean/Sea,Pemba,Dry,Restaurant/Hotel,Grade A,3.11,5,381,410.0,19189.11
+Dagaa,Freshwater,Kilwa,Dry,Export,Grade B,13.93,2,283,401.7,11884.39
+Nile Perch,Freshwater,Pemba,Rainy,Local Market,Grade B,4.36,0,175,309.0,13414.73
+Sardine,Freshwater,Kilwa,Dry,Export,Grade B,8.02,6,138,260.1,8205.04
+Sea Bream,Ocean/Sea,Kilwa,Dry,Export,Grade B,17.94,4,29,37.0,34441.34
+Parrotfish,Ocean/Sea,Dodoma,Rainy,Export,Grade C,4.33,0,22,18.1,13934.1
+Squid,Ocean/Sea,Lindi,Dry,Export,Grade C,10.3,7,194,218.0,13440.92
+Nile Tilapia,Freshwater,Dar es Salaam,Rainy,Restaurant/Hotel,Grade B,8.56,3,145,203.5,12826.74
+Yellowfin Tuna,Ocean/Sea,Pemba,Rainy,Export,Grade B,0.66,4,47,235.7,27065.96
+Carp,Freshwater,Mtwara,Dry,Restaurant/Hotel,Grade B,15.92,7,338,87.3,12761.96
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade A,1.66,4,288,444.2,22317.95
+Prawns,Ocean/Sea,Lindi,Dry,Local Market,Grade B,9.64,1,150,514.9,30944.0
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Restaurant/Hotel,Grade A,11.35,7,319,563.5,33610.65
+Tuna,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,12.68,3,323,298.0,25419.63
+Octopus,Ocean/Sea,Mtwara,Dry,Wholesale,Grade B,13.87,3,96,422.0,18392.27
+Grouper,Ocean/Sea,Lindi,Dry,Export,Grade A,5.29,5,183,514.1,41719.37
+Nile Tilapia,Freshwater,Dodoma,Rainy,Wholesale,Grade C,0.5,4,60,253.9,1942.4
+Barracuda,Ocean/Sea,Pemba,Dry,Wholesale,Grade C,14.55,6,159,189.1,14244.78
+Sea Bass,Ocean/Sea,Arusha,Rainy,Wholesale,Grade B,10.85,3,164,562.4,15403.92
+Catfish,Freshwater,Lindi,Dry,Wholesale,Grade B,16.77,4,115,311.8,11937.91
+Sardine,Freshwater,Mwanza,Dry,Local Market,Grade C,16.48,5,141,300.9,10365.11
+Parrotfish,Ocean/Sea,Pemba,Rainy,Local Market,Grade A,16.91,6,236,111.2,19528.87
+Nile Tilapia,Freshwater,Lindi,Dry,Export,Grade B,9.86,7,224,69.4,15280.13
+Octopus,Ocean/Sea,Zanzibar,Dry,Local Market,Grade A,6.87,5,72,506.1,19292.48
+Prawns,Ocean/Sea,Arusha,Rainy,Wholesale,Grade B,15.89,1,306,370.4,20857.4
+Kingfish,Ocean/Sea,Zanzibar,Dry,Local Market,Grade A,9.19,6,253,198.9,25236.11
+Catfish,Freshwater,Arusha,Dry,Restaurant/Hotel,Grade C,3.91,4,327,119.1,6895.04
+Octopus,Ocean/Sea,Mwanza,Dry,Export,Grade C,17.14,3,396,335.5,24379.82
+Nile Tilapia,Freshwater,Pemba,Rainy,Wholesale,Grade A,17.69,3,10,352.4,16379.3
+Yellowfin Tuna,Ocean/Sea,Dodoma,Dry,Local Market,Grade B,9.49,4,284,128.2,28150.91
+Grouper,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade C,1.79,4,98,511.6,9475.06
+Swordfish,Ocean/Sea,Zanzibar,Dry,Restaurant/Hotel,Grade B,7.94,4,273,55.1,42262.29
+Tilapia,Freshwater,Kilwa,Dry,Export,Grade C,16.13,2,201,216.9,16017.01
+Tuna,Ocean/Sea,Arusha,Rainy,Export,Grade B,18.06,6,29,409.8,34486.67
+Octopus,Ocean/Sea,Tanga,Rainy,Wholesale,Grade B,4.31,3,152,168.1,7497.66
+Crab,Ocean/Sea,Pemba,Dry,Local Market,Grade A,1.62,6,122,497.5,24812.73
+Mackerel,Ocean/Sea,Arusha,Dry,Export,Grade A,17.58,5,342,445.2,29290.8
+Lungfish,Freshwater,Kilwa,Rainy,Export,Grade B,7.97,3,371,474.5,10274.74
+Red Snapper,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,10.97,2,342,75.9,15058.91
+Red Snapper,Ocean/Sea,Arusha,Dry,Export,Grade B,19.37,4,70,88.6,34882.1
+Sea Bass,Ocean/Sea,Dodoma,Rainy,Local Market,Grade B,1.61,1,305,175.5,12522.05
+Kingfish,Ocean/Sea,Pemba,Dry,Local Market,Grade B,13.07,4,374,313.3,20965.57
+Sea Bream,Ocean/Sea,Kilwa,Rainy,Local Market,Grade C,1.76,7,179,450.1,5947.83
+Parrotfish,Ocean/Sea,Dar es Salaam,Rainy,Restaurant/Hotel,Grade C,7.7,4,323,502.7,10806.38
+Crab,Ocean/Sea,Mtwara,Rainy,Export,Grade B,16.14,2,80,424.1,34449.48
+Nile Tilapia,Freshwater,Kilwa,Rainy,Restaurant/Hotel,Grade C,8.84,6,118,557.5,8994.67
+Nile Perch,Freshwater,Mtwara,Dry,Export,Grade B,19.94,3,115,444.6,32275.4
+Nile Perch,Freshwater,Pemba,Rainy,Local Market,Grade B,11.31,4,253,187.2,13701.3
+Crab,Ocean/Sea,Zanzibar,Rainy,Export,Grade C,6.63,3,207,162.7,19051.12
+Yellowfin Tuna,Ocean/Sea,Kilwa,Dry,Export,Grade A,4.64,0,151,419.2,52156.13
+Crab,Ocean/Sea,Mwanza,Rainy,Local Market,Grade A,7.21,5,39,119.8,21879.54
+Sea Bass,Ocean/Sea,Mtwara,Rainy,Export,Grade C,7.64,6,313,60.2,18241.64
+Octopus,Ocean/Sea,Dodoma,Dry,Local Market,Grade B,1.65,3,30,321.7,13405.24
+Carp,Freshwater,Mwanza,Rainy,Export,Grade C,7.58,1,242,493.9,7721.36
+Dagaa,Freshwater,Lindi,Dry,Wholesale,Grade C,9.45,5,18,65.3,5865.64
+Nile Tilapia,Freshwater,Lindi,Dry,Local Market,Grade A,14.54,7,378,476.2,14874.36
+Lungfish,Freshwater,Dar es Salaam,Dry,Local Market,Grade C,13.24,7,49,487.9,10606.04
+Electric Catfish,Freshwater,Zanzibar,Dry,Wholesale,Grade B,14.26,1,220,292.0,14804.46
+Yellowfin Tuna,Ocean/Sea,Pemba,Rainy,Export,Grade B,0.46,4,237,39.1,25369.11
+Carp,Freshwater,Kilwa,Dry,Local Market,Grade B,4.59,5,197,108.9,5670.07
+Sardine,Freshwater,Tanga,Rainy,Restaurant/Hotel,Grade C,13.34,3,55,425.9,9061.39
+Nile Perch,Freshwater,Dodoma,Rainy,Local Market,Grade A,9.83,5,379,428.5,14595.34
+Grouper,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,0.4,4,218,539.5,8265.3
+Tuna,Ocean/Sea,Pemba,Rainy,Restaurant/Hotel,Grade B,16.15,2,155,351.7,30853.76
+Red Snapper,Ocean/Sea,Mwanza,Rainy,Local Market,Grade B,15.52,6,279,78.8,18141.45
+Red Mullet,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,11.1,1,342,77.2,16294.42
+Prawns,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,1.61,4,80,434.1,23937.19
+Yellowfin Tuna,Ocean/Sea,Tanga,Rainy,Local Market,Grade A,15.4,2,224,114.4,30917.62
+Swordfish,Ocean/Sea,Kilwa,Rainy,Local Market,Grade B,11.8,5,352,200.4,23502.11
+Red Mullet,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade C,15.7,5,191,294.9,12285.24
+Carp,Freshwater,Tanga,Dry,Local Market,Grade A,15.11,4,293,19.7,13495.84
+Sea Bass,Ocean/Sea,Dodoma,Dry,Export,Grade A,16.12,3,32,153.0,48423.69
+Barracuda,Ocean/Sea,Tanga,Dry,Restaurant/Hotel,Grade C,10.5,5,383,247.7,18856.53
+Barracuda,Ocean/Sea,Dodoma,Rainy,Wholesale,Grade A,3.06,3,184,171.4,11268.59
+Sea Bream,Ocean/Sea,Dodoma,Dry,Export,Grade C,13.52,3,257,86.1,24364.45
+Sea Bass,Ocean/Sea,Arusha,Dry,Local Market,Grade B,12.52,6,130,438.2,22621.58
+Red Snapper,Ocean/Sea,Mtwara,Dry,Export,Grade C,14.92,3,181,488.8,24586.49
+Nile Tilapia,Freshwater,Lindi,Rainy,Export,Grade A,3.65,0,41,158.2,15205.12
+Tilapia,Freshwater,Arusha,Rainy,Export,Grade A,4.14,6,103,465.8,11364.96
+Dagaa,Freshwater,Kilwa,Rainy,Local Market,Grade B,17.84,2,102,234.4,12909.18
+Barracuda,Ocean/Sea,Arusha,Rainy,Wholesale,Grade C,15.07,2,131,306.5,15726.05
+Sardine,Freshwater,Zanzibar,Dry,Export,Grade B,18.19,5,172,514.3,16198.91
+Barracuda,Ocean/Sea,Zanzibar,Dry,Local Market,Grade A,15.25,5,84,451.2,27217.8
+Red Mullet,Ocean/Sea,Lindi,Dry,Export,Grade B,12.06,3,298,484.0,28892.03
+Barracuda,Ocean/Sea,Tanga,Dry,Export,Grade B,13.19,6,337,86.4,31287.35
+Yellowfin Tuna,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,17.82,6,130,46.5,19013.23
+Barracuda,Ocean/Sea,Lindi,Rainy,Wholesale,Grade B,11.7,0,347,536.6,14318.61
+Tilapia,Freshwater,Dodoma,Rainy,Wholesale,Grade C,12.76,3,314,235.8,7982.32
+Tilapia,Freshwater,Mwanza,Dry,Local Market,Grade B,3.38,0,154,176.3,9013.03
+Swordfish,Ocean/Sea,Mtwara,Rainy,Export,Grade A,9.64,7,20,436.2,46762.65
+Parrotfish,Ocean/Sea,Mtwara,Rainy,Export,Grade B,14.41,3,32,502.7,22107.17
+Sardine,Freshwater,Dodoma,Dry,Local Market,Grade A,5.64,1,177,518.2,7745.72
+Nile Perch,Freshwater,Dodoma,Dry,Local Market,Grade B,4.28,1,50,193.0,15869.91
+Nile Perch,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade B,6.48,4,332,512.1,8420.2
+Grouper,Ocean/Sea,Lindi,Rainy,Local Market,Grade A,5.06,3,240,29.4,19957.89
+Tilapia,Freshwater,Dodoma,Rainy,Export,Grade B,4.53,6,218,34.5,9054.57
+Mackerel,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade A,8.67,5,89,376.0,12133.89
+Red Snapper,Ocean/Sea,Kilwa,Rainy,Local Market,Grade C,18.18,2,286,42.5,17314.12
+Sea Bream,Ocean/Sea,Mwanza,Rainy,Local Market,Grade C,10.29,4,236,198.1,11257.51
+Lungfish,Freshwater,Lindi,Dry,Restaurant/Hotel,Grade A,4.0,5,89,405.3,11035.27
+Parrotfish,Ocean/Sea,Pemba,Dry,Wholesale,Grade C,1.82,1,69,205.7,6555.38
+Catfish,Freshwater,Zanzibar,Dry,Restaurant/Hotel,Grade B,14.01,3,138,111.9,17229.42
+Parrotfish,Ocean/Sea,Tanga,Rainy,Export,Grade A,7.84,4,155,172.4,23226.51
+Kingfish,Ocean/Sea,Dodoma,Dry,Local Market,Grade A,16.49,3,119,277.3,33051.94
+Red Mullet,Ocean/Sea,Pemba,Rainy,Export,Grade B,13.29,1,68,287.9,25923.5
+Yellowfin Tuna,Ocean/Sea,Dodoma,Rainy,Export,Grade B,15.99,4,347,470.9,34080.34
+Barracuda,Ocean/Sea,Mtwara,Dry,Wholesale,Grade B,5.66,1,367,451.3,14666.61
+Lungfish,Freshwater,Zanzibar,Rainy,Local Market,Grade A,13.94,0,356,276.8,13827.22
+Red Mullet,Ocean/Sea,Mtwara,Rainy,Export,Grade A,5.5,1,162,508.2,25992.42
+Sardine,Freshwater,Dar es Salaam,Dry,Local Market,Grade B,18.8,6,81,73.0,12930.03
+Sea Bass,Ocean/Sea,Mtwara,Dry,Local Market,Grade A,12.84,6,150,156.9,28520.04
+Tilapia,Freshwater,Dar es Salaam,Dry,Wholesale,Grade A,6.69,3,347,497.6,9148.85
+Lungfish,Freshwater,Dar es Salaam,Rainy,Export,Grade A,5.61,2,229,229.9,11511.9
+Swordfish,Ocean/Sea,Pemba,Dry,Export,Grade C,4.06,1,317,588.8,32339.18
+Kingfish,Ocean/Sea,Dodoma,Dry,Export,Grade C,13.98,5,107,282.4,25238.7
+Lobster,Ocean/Sea,Tanga,Rainy,Export,Grade B,4.61,6,351,476.2,47549.97
+Lobster,Ocean/Sea,Mtwara,Dry,Wholesale,Grade C,12.03,7,305,244.4,24583.37
+Nile Perch,Freshwater,Zanzibar,Dry,Wholesale,Grade B,5.51,2,92,257.8,11840.34
+Carp,Freshwater,Dar es Salaam,Dry,Restaurant/Hotel,Grade B,13.34,0,375,232.8,14773.66
+Yellowfin Tuna,Ocean/Sea,Dodoma,Rainy,Wholesale,Grade A,16.35,4,307,432.8,22707.17
+Lungfish,Freshwater,Mwanza,Rainy,Local Market,Grade B,15.63,4,172,330.8,9587.93
+Lobster,Ocean/Sea,Lindi,Rainy,Wholesale,Grade C,15.29,6,174,566.5,22480.88
+Dagaa,Freshwater,Pemba,Rainy,Export,Grade B,4.0,2,139,154.3,5253.55
+Sea Bass,Ocean/Sea,Tanga,Dry,Local Market,Grade B,2.04,6,54,64.8,17235.3
+Yellowfin Tuna,Ocean/Sea,Arusha,Rainy,Wholesale,Grade B,14.07,4,344,239.0,18886.16
+Catfish,Freshwater,Pemba,Rainy,Local Market,Grade A,7.56,7,351,371.9,9838.13
+Grouper,Ocean/Sea,Mwanza,Dry,Restaurant/Hotel,Grade C,8.82,1,138,517.2,24318.1
+Sea Bream,Ocean/Sea,Lindi,Dry,Export,Grade B,0.91,2,351,211.0,23876.56
+Dagaa,Freshwater,Mwanza,Dry,Export,Grade B,5.41,3,141,394.0,5171.62
+Grouper,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,0.96,1,249,213.4,11022.04
+Sea Bass,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,17.62,1,113,372.2,21044.85
+Nile Tilapia,Freshwater,Tanga,Rainy,Export,Grade A,5.09,1,317,531.5,15171.06
+Sea Bass,Ocean/Sea,Kilwa,Dry,Export,Grade B,11.28,3,291,142.7,33801.12
+Carp,Freshwater,Dar es Salaam,Dry,Local Market,Grade A,1.07,7,25,245.5,5230.29
+Nile Perch,Freshwater,Kilwa,Rainy,Export,Grade B,13.44,0,94,596.0,23284.65
+Electric Catfish,Freshwater,Lindi,Dry,Local Market,Grade C,6.66,7,300,521.8,6748.78
+Nile Tilapia,Freshwater,Dodoma,Dry,Wholesale,Grade C,17.99,7,116,341.0,12690.78
+Sailfish,Ocean/Sea,Arusha,Dry,Export,Grade B,17.8,7,305,312.4,42566.53
+Electric Catfish,Freshwater,Zanzibar,Rainy,Wholesale,Grade B,6.71,5,81,174.3,7683.81
+Nile Perch,Freshwater,Dar es Salaam,Dry,Local Market,Grade A,18.05,6,181,312.7,25460.85
+Kingfish,Ocean/Sea,Tanga,Dry,Local Market,Grade B,19.92,4,347,509.7,27655.87
+Crab,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade A,16.56,6,152,412.7,20235.87
+Crab,Ocean/Sea,Tanga,Rainy,Local Market,Grade B,16.94,2,105,177.6,24376.21
+Sailfish,Ocean/Sea,Lindi,Dry,Local Market,Grade A,5.21,7,250,124.9,28200.42
+Parrotfish,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,11.66,0,121,162.8,24926.63
+Tuna,Ocean/Sea,Mwanza,Rainy,Restaurant/Hotel,Grade B,1.62,2,96,106.0,22575.16
+Dagaa,Freshwater,Zanzibar,Rainy,Wholesale,Grade A,2.17,6,32,61.9,1249.77
+Nile Tilapia,Freshwater,Zanzibar,Dry,Export,Grade B,19.98,4,29,254.4,22971.15
+Lobster,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade B,6.73,3,62,72.4,43316.47
+Sea Bream,Ocean/Sea,Lindi,Dry,Local Market,Grade A,15.04,6,301,107.3,27199.29
+Lobster,Ocean/Sea,Dodoma,Dry,Wholesale,Grade B,16.19,1,138,330.7,40958.1
+Crab,Ocean/Sea,Lindi,Rainy,Wholesale,Grade A,17.2,6,335,102.9,21451.47
+Sea Bass,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,19.95,1,253,43.0,34590.03
+Barracuda,Ocean/Sea,Tanga,Dry,Local Market,Grade B,5.06,3,42,193.8,19538.64
+Tilapia,Freshwater,Zanzibar,Rainy,Local Market,Grade A,1.09,6,394,136.1,3985.32
+Nile Perch,Freshwater,Tanga,Dry,Wholesale,Grade C,8.4,0,79,311.6,12049.25
+Lobster,Ocean/Sea,Tanga,Rainy,Wholesale,Grade A,2.86,0,146,65.9,29209.77
+Red Snapper,Ocean/Sea,Tanga,Dry,Local Market,Grade A,0.74,2,326,452.3,19047.57
+Sardine,Freshwater,Zanzibar,Dry,Local Market,Grade B,7.4,3,172,544.2,7032.8
+Sardine,Freshwater,Pemba,Rainy,Local Market,Grade B,15.74,7,263,447.3,8513.65
+Yellowfin Tuna,Ocean/Sea,Mtwara,Rainy,Restaurant/Hotel,Grade A,11.45,0,377,322.0,37258.11
+Parrotfish,Ocean/Sea,Kilwa,Dry,Local Market,Grade B,6.46,6,359,517.1,13828.23
+Carp,Freshwater,Pemba,Dry,Wholesale,Grade A,13.19,3,229,418.5,10330.78
+Carp,Freshwater,Kilwa,Dry,Export,Grade C,4.87,4,156,11.3,5779.01
+Dagaa,Freshwater,Mwanza,Rainy,Export,Grade B,0.58,1,23,239.5,4595.54
+Grouper,Ocean/Sea,Lindi,Dry,Local Market,Grade B,15.36,6,150,511.3,26083.75
+Lobster,Ocean/Sea,Lindi,Rainy,Local Market,Grade C,12.59,1,245,210.8,25641.4
+Lobster,Ocean/Sea,Arusha,Rainy,Export,Grade B,15.32,1,376,26.0,53008.44
+Dagaa,Freshwater,Lindi,Dry,Wholesale,Grade C,1.07,7,385,449.0,1000.0
+Sea Bass,Ocean/Sea,Zanzibar,Rainy,Export,Grade B,16.79,3,348,482.2,29643.7
+Red Mullet,Ocean/Sea,Dodoma,Dry,Export,Grade C,12.5,3,241,100.6,23728.35
+Swordfish,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade A,11.4,2,39,324.7,43006.26
+Red Mullet,Ocean/Sea,Arusha,Dry,Restaurant/Hotel,Grade B,12.6,1,194,119.2,27299.64
+Nile Perch,Freshwater,Dar es Salaam,Dry,Wholesale,Grade B,17.33,2,5,432.9,19976.59
+Red Mullet,Ocean/Sea,Kilwa,Dry,Local Market,Grade B,11.86,7,157,166.6,18748.98
+Sea Bass,Ocean/Sea,Dar es Salaam,Rainy,Restaurant/Hotel,Grade B,11.74,1,130,193.1,24327.99
+Kingfish,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade B,19.82,2,349,507.8,29980.94
+Barracuda,Ocean/Sea,Arusha,Dry,Export,Grade A,15.21,2,230,288.4,41837.8
+Electric Catfish,Freshwater,Mwanza,Dry,Wholesale,Grade A,9.01,4,225,403.5,14155.85
+Catfish,Freshwater,Tanga,Rainy,Wholesale,Grade B,14.24,2,215,244.4,11468.98
+Lungfish,Freshwater,Lindi,Rainy,Wholesale,Grade B,7.97,3,29,182.3,6228.53
+Electric Catfish,Freshwater,Lindi,Rainy,Local Market,Grade C,4.81,2,20,377.2,7774.27
+Sea Bass,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,12.06,1,186,97.1,19498.94
+Dagaa,Freshwater,Arusha,Dry,Restaurant/Hotel,Grade C,18.59,2,333,226.9,13378.18
+Lobster,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,18.6,0,133,129.4,50958.31
+Crab,Ocean/Sea,Dodoma,Rainy,Export,Grade A,7.04,5,46,419.0,32955.15
+Dagaa,Freshwater,Dodoma,Dry,Export,Grade A,10.7,1,340,566.8,12465.82
+Crab,Ocean/Sea,Zanzibar,Rainy,Export,Grade B,4.47,0,240,597.3,26339.52
+Sailfish,Ocean/Sea,Arusha,Dry,Export,Grade B,19.91,7,364,272.9,44538.27
+Squid,Ocean/Sea,Zanzibar,Rainy,Restaurant/Hotel,Grade A,19.63,1,38,155.3,26861.51
+Sailfish,Ocean/Sea,Lindi,Dry,Local Market,Grade B,13.1,3,349,268.5,28319.01
+Tilapia,Freshwater,Pemba,Rainy,Local Market,Grade C,16.15,5,385,509.1,10865.55
+Swordfish,Ocean/Sea,Mtwara,Rainy,Local Market,Grade B,14.39,5,49,127.6,30021.81
+Dagaa,Freshwater,Dar es Salaam,Dry,Wholesale,Grade B,11.99,3,138,571.5,9128.29
+Lobster,Ocean/Sea,Mtwara,Rainy,Export,Grade B,1.35,5,25,208.4,46279.65
+Carp,Freshwater,Arusha,Dry,Local Market,Grade A,9.26,3,126,591.6,10866.39
+Catfish,Freshwater,Mtwara,Dry,Wholesale,Grade B,13.59,0,74,504.0,12832.27
+Nile Perch,Freshwater,Dodoma,Rainy,Wholesale,Grade B,13.65,7,356,486.1,10009.87
+Catfish,Freshwater,Kilwa,Dry,Wholesale,Grade A,7.65,4,365,194.2,8722.04
+Nile Perch,Freshwater,Dar es Salaam,Dry,Restaurant/Hotel,Grade B,18.85,1,52,10.2,28957.08
+Squid,Ocean/Sea,Tanga,Dry,Local Market,Grade B,3.6,3,43,232.4,11765.55
+Mackerel,Ocean/Sea,Arusha,Dry,Wholesale,Grade C,10.16,1,291,184.6,10586.1
+Lobster,Ocean/Sea,Dar es Salaam,Dry,Export,Grade C,13.91,7,14,27.3,49982.67
+Sea Bass,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade A,14.03,0,34,305.7,21464.09
+Red Mullet,Ocean/Sea,Dodoma,Dry,Wholesale,Grade B,13.08,4,248,244.8,15502.27
+Electric Catfish,Freshwater,Mwanza,Dry,Wholesale,Grade B,5.72,7,278,382.6,7275.33
+Nile Tilapia,Freshwater,Pemba,Dry,Wholesale,Grade C,3.38,0,92,374.6,5354.9
+Dagaa,Freshwater,Tanga,Dry,Local Market,Grade A,12.83,5,248,76.8,8355.12
+Barracuda,Ocean/Sea,Pemba,Dry,Export,Grade B,12.11,1,385,586.3,31084.27
+Nile Perch,Freshwater,Dar es Salaam,Rainy,Restaurant/Hotel,Grade B,3.83,6,333,116.2,12526.14
+Lobster,Ocean/Sea,Dodoma,Dry,Restaurant/Hotel,Grade A,14.19,4,19,269.9,79559.71
+Red Snapper,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,9.27,5,8,295.4,18931.86
+Yellowfin Tuna,Ocean/Sea,Mtwara,Rainy,Local Market,Grade B,13.45,7,195,488.8,20815.37
+Grouper,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,16.8,4,172,64.0,22776.18
+Swordfish,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,3.64,5,13,260.0,13980.29
+Parrotfish,Ocean/Sea,Lindi,Dry,Wholesale,Grade B,0.68,0,113,379.0,10213.82
+Swordfish,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,15.65,3,141,133.0,28841.49
+Squid,Ocean/Sea,Tanga,Rainy,Export,Grade B,12.31,1,158,378.3,19961.77
+Lungfish,Freshwater,Mtwara,Dry,Wholesale,Grade A,14.08,2,392,554.6,12304.63
+Lungfish,Freshwater,Mwanza,Dry,Wholesale,Grade C,16.81,2,213,598.5,12443.3
+Octopus,Ocean/Sea,Zanzibar,Dry,Export,Grade A,16.12,0,276,24.3,40988.7
+Grouper,Ocean/Sea,Zanzibar,Rainy,Export,Grade B,19.23,7,147,145.2,30764.39
+Swordfish,Ocean/Sea,Mtwara,Dry,Export,Grade A,10.86,1,103,189.6,64486.16
+Electric Catfish,Freshwater,Mtwara,Dry,Local Market,Grade A,9.92,7,381,242.5,13798.72
+Yellowfin Tuna,Ocean/Sea,Pemba,Rainy,Export,Grade B,8.22,1,312,149.1,31513.76
+Yellowfin Tuna,Ocean/Sea,Tanga,Dry,Wholesale,Grade A,3.33,0,73,126.1,26516.87
+Tilapia,Freshwater,Mtwara,Dry,Wholesale,Grade C,11.58,1,251,573.0,9118.28
+Mackerel,Ocean/Sea,Pemba,Dry,Export,Grade A,5.76,3,265,551.5,21715.99
+Nile Perch,Freshwater,Lindi,Dry,Wholesale,Grade B,18.45,7,280,33.0,17293.79
+Prawns,Ocean/Sea,Dodoma,Rainy,Local Market,Grade B,11.79,0,83,206.6,23701.58
+Nile Perch,Freshwater,Dodoma,Dry,Export,Grade A,11.98,3,150,246.1,33474.57
+Sardine,Freshwater,Lindi,Dry,Local Market,Grade A,7.29,1,115,147.2,9114.16
+Lobster,Ocean/Sea,Arusha,Rainy,Local Market,Grade B,1.32,0,262,379.2,29714.47
+Grouper,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,0.93,1,97,386.0,13386.23
+Catfish,Freshwater,Pemba,Rainy,Restaurant/Hotel,Grade B,8.64,7,17,511.1,8226.5
+Dagaa,Freshwater,Lindi,Dry,Local Market,Grade B,1.97,0,264,445.8,4732.91
+Barracuda,Ocean/Sea,Mwanza,Rainy,Export,Grade B,12.25,1,113,327.8,26834.54
+Barracuda,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade A,17.66,7,334,393.9,19405.89
+Red Snapper,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,17.69,3,193,168.0,19850.21
+Squid,Ocean/Sea,Lindi,Rainy,Export,Grade C,13.28,6,99,357.9,14337.55
+Mackerel,Ocean/Sea,Mtwara,Dry,Wholesale,Grade B,4.46,3,109,296.1,8867.03
+Lungfish,Freshwater,Mtwara,Rainy,Export,Grade B,17.3,1,12,84.3,19109.55
+Dagaa,Freshwater,Tanga,Dry,Local Market,Grade B,17.76,0,71,149.3,13604.38
+Carp,Freshwater,Lindi,Rainy,Export,Grade B,4.17,2,195,178.6,7455.73
+Sardine,Freshwater,Tanga,Rainy,Wholesale,Grade B,14.83,3,370,555.0,9716.15
+Red Mullet,Ocean/Sea,Lindi,Rainy,Export,Grade B,5.94,3,260,142.1,19154.19
+Barracuda,Ocean/Sea,Pemba,Dry,Local Market,Grade C,16.11,7,13,177.1,18823.63
+Squid,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade A,19.95,5,121,224.8,18534.46
+Mackerel,Ocean/Sea,Pemba,Dry,Local Market,Grade A,0.89,2,271,399.9,11429.16
+Dagaa,Freshwater,Kilwa,Dry,Wholesale,Grade B,17.98,1,103,75.4,12853.96
+Nile Perch,Freshwater,Dodoma,Dry,Local Market,Grade C,12.57,6,302,572.6,15039.55
+Sea Bass,Ocean/Sea,Zanzibar,Dry,Restaurant/Hotel,Grade A,19.48,0,168,520.0,46471.82
+Mackerel,Ocean/Sea,Lindi,Dry,Export,Grade A,9.46,5,380,348.4,23718.93
+Parrotfish,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,16.99,1,145,406.1,26879.68
+Nile Perch,Freshwater,Dodoma,Dry,Local Market,Grade A,1.53,4,272,14.9,15365.68
+Dagaa,Freshwater,Arusha,Dry,Local Market,Grade B,6.9,6,41,206.7,3737.81
+Sailfish,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade B,1.62,3,78,478.4,18069.62
+Crab,Ocean/Sea,Tanga,Rainy,Restaurant/Hotel,Grade B,19.51,4,77,51.1,32333.47
+Tuna,Ocean/Sea,Tanga,Rainy,Export,Grade B,16.39,3,312,173.0,31058.89
+Swordfish,Ocean/Sea,Pemba,Rainy,Export,Grade A,17.1,3,203,353.3,52635.69
+Sea Bream,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade A,18.78,4,134,157.6,21060.2
+Dagaa,Freshwater,Dodoma,Rainy,Wholesale,Grade B,1.98,6,250,560.7,1000.0
+Electric Catfish,Freshwater,Arusha,Dry,Export,Grade C,7.9,7,316,83.0,11012.8
+Squid,Ocean/Sea,Kilwa,Dry,Export,Grade C,1.7,4,64,479.4,11821.18
+Red Mullet,Ocean/Sea,Dar es Salaam,Dry,Export,Grade A,4.45,1,283,307.2,32838.31
+Sailfish,Ocean/Sea,Dodoma,Dry,Wholesale,Grade C,4.82,5,107,451.4,12629.87
+Prawns,Ocean/Sea,Arusha,Dry,Local Market,Grade B,9.54,5,300,189.9,27225.82
+Swordfish,Ocean/Sea,Zanzibar,Dry,Export,Grade B,5.59,4,324,311.1,46478.68
+Parrotfish,Ocean/Sea,Lindi,Dry,Export,Grade B,2.29,1,345,514.8,21548.03
+Tilapia,Freshwater,Tanga,Rainy,Wholesale,Grade B,3.6,7,155,282.8,2480.01
+Yellowfin Tuna,Ocean/Sea,Kilwa,Rainy,Local Market,Grade B,3.2,5,161,219.0,15903.26
+Tuna,Ocean/Sea,Tanga,Rainy,Export,Grade A,19.47,1,210,324.0,42730.2
+Tilapia,Freshwater,Kilwa,Rainy,Export,Grade A,15.26,7,183,431.8,17692.57
+Sea Bream,Ocean/Sea,Pemba,Dry,Export,Grade A,19.36,1,201,268.9,46833.42
+Barracuda,Ocean/Sea,Mtwara,Dry,Local Market,Grade B,8.96,3,227,563.6,19335.66
+Electric Catfish,Freshwater,Kilwa,Dry,Export,Grade B,5.78,5,93,180.5,16191.3
+Nile Perch,Freshwater,Tanga,Rainy,Export,Grade B,16.03,7,291,287.9,21541.35
+Carp,Freshwater,Pemba,Dry,Export,Grade A,6.73,5,280,455.4,14727.76
+Kingfish,Ocean/Sea,Kilwa,Dry,Export,Grade C,6.2,3,240,415.0,22566.97
+Swordfish,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade C,4.88,4,187,518.9,15798.44
+Lobster,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,2.85,3,213,598.1,21740.4
+Nile Tilapia,Freshwater,Kilwa,Dry,Local Market,Grade C,5.35,5,134,259.0,5758.38
+Tuna,Ocean/Sea,Pemba,Rainy,Wholesale,Grade B,7.3,5,157,71.1,13288.39
+Parrotfish,Ocean/Sea,Dodoma,Rainy,Export,Grade C,13.58,6,17,23.1,15421.7
+Sea Bream,Ocean/Sea,Mwanza,Rainy,Local Market,Grade A,1.53,7,126,437.5,11950.22
+Dagaa,Freshwater,Arusha,Rainy,Local Market,Grade B,4.45,4,363,525.0,2980.44
+Sailfish,Ocean/Sea,Mwanza,Dry,Local Market,Grade A,16.24,3,224,136.3,35635.88
+Crab,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade A,3.19,7,110,99.3,12921.93
+Red Mullet,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade A,7.05,0,379,42.0,12853.0
+Octopus,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade B,17.33,7,74,494.5,17762.03
+Sea Bream,Ocean/Sea,Dodoma,Dry,Export,Grade B,3.35,0,199,190.3,28078.55
+Nile Tilapia,Freshwater,Lindi,Rainy,Export,Grade B,1.93,4,190,244.0,9782.56
+Crab,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,9.85,3,103,304.1,32275.63
+Catfish,Freshwater,Arusha,Rainy,Local Market,Grade C,6.26,3,86,504.5,4713.05
+Octopus,Ocean/Sea,Mtwara,Rainy,Export,Grade B,11.4,1,79,392.2,23288.04
+Sea Bass,Ocean/Sea,Dodoma,Rainy,Local Market,Grade B,16.13,5,378,371.0,23993.55
+Nile Perch,Freshwater,Tanga,Rainy,Local Market,Grade B,3.0,2,344,109.5,9473.99
+Electric Catfish,Freshwater,Lindi,Dry,Export,Grade A,11.74,6,196,310.3,21813.79
+Squid,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,10.26,7,329,430.7,7349.2
+Lobster,Ocean/Sea,Dar es Salaam,Dry,Restaurant/Hotel,Grade C,3.14,4,218,584.1,38412.86
+Squid,Ocean/Sea,Dodoma,Dry,Restaurant/Hotel,Grade A,12.59,2,319,124.8,25915.26
+Red Snapper,Ocean/Sea,Pemba,Dry,Export,Grade B,5.69,7,386,10.7,24245.63
+Grouper,Ocean/Sea,Mwanza,Dry,Export,Grade C,9.91,2,371,49.8,25436.57
+Parrotfish,Ocean/Sea,Tanga,Rainy,Export,Grade B,1.92,4,322,228.6,14355.59
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade A,9.35,3,148,493.2,27380.01
+Tilapia,Freshwater,Arusha,Rainy,Local Market,Grade A,6.34,4,388,9.2,8556.33
+Tilapia,Freshwater,Dar es Salaam,Dry,Export,Grade A,16.5,7,220,276.8,22735.05
+Parrotfish,Ocean/Sea,Mtwara,Dry,Wholesale,Grade B,1.42,2,365,200.9,9338.58
+Swordfish,Ocean/Sea,Kilwa,Rainy,Export,Grade B,8.55,5,328,36.2,33853.55
+Grouper,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade A,9.33,6,19,272.9,33034.84
+Crab,Ocean/Sea,Mtwara,Rainy,Export,Grade C,14.58,6,221,156.6,20314.4
+Sea Bream,Ocean/Sea,Dodoma,Dry,Local Market,Grade B,11.61,5,39,214.4,21059.43
+Swordfish,Ocean/Sea,Dodoma,Dry,Export,Grade A,13.44,5,187,424.8,65523.94
+Sea Bream,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,15.61,3,274,315.3,20290.78
+Sea Bream,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,17.29,7,362,79.2,18435.46
+Swordfish,Ocean/Sea,Arusha,Rainy,Local Market,Grade A,6.48,0,104,577.0,31772.39
+Barracuda,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade A,10.9,4,11,383.4,16828.25
+Sea Bass,Ocean/Sea,Arusha,Dry,Local Market,Grade C,16.85,6,34,460.7,20047.33
+Tuna,Ocean/Sea,Zanzibar,Rainy,Export,Grade B,19.79,5,309,52.1,35560.76
+Lungfish,Freshwater,Lindi,Rainy,Local Market,Grade B,17.82,4,148,33.0,13802.16
+Prawns,Ocean/Sea,Zanzibar,Rainy,Restaurant/Hotel,Grade B,7.62,6,115,16.6,26419.02
+Swordfish,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade A,4.14,5,236,117.3,25180.34
+Kingfish,Ocean/Sea,Lindi,Dry,Export,Grade A,9.94,7,183,251.6,39888.93
+Sardine,Freshwater,Zanzibar,Rainy,Wholesale,Grade B,14.91,6,76,561.8,9683.87
+Nile Perch,Freshwater,Mwanza,Dry,Wholesale,Grade A,10.0,3,214,277.0,17297.74
+Electric Catfish,Freshwater,Dar es Salaam,Rainy,Local Market,Grade A,9.82,0,224,177.7,11611.98
+Mackerel,Ocean/Sea,Zanzibar,Rainy,Wholesale,Grade C,16.81,0,84,339.4,13588.96
+Red Snapper,Ocean/Sea,Mwanza,Dry,Export,Grade C,7.42,5,87,71.6,19883.6
+Red Snapper,Ocean/Sea,Mwanza,Rainy,Export,Grade B,17.24,6,46,367.7,24084.33
+Sardine,Freshwater,Dodoma,Dry,Local Market,Grade C,8.31,3,277,343.2,5772.17
+Nile Tilapia,Freshwater,Dar es Salaam,Dry,Local Market,Grade A,6.77,1,195,476.2,13031.13
+Catfish,Freshwater,Mwanza,Rainy,Wholesale,Grade C,9.24,4,177,592.1,3877.95
+Lungfish,Freshwater,Dodoma,Dry,Export,Grade A,15.32,4,11,154.3,22108.51
+Octopus,Ocean/Sea,Zanzibar,Dry,Export,Grade C,2.78,2,159,308.2,15818.4
+Sea Bass,Ocean/Sea,Mtwara,Dry,Wholesale,Grade C,4.17,3,14,545.8,10390.59
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade B,19.04,6,38,472.2,26866.42
+Dagaa,Freshwater,Lindi,Dry,Local Market,Grade C,3.76,7,40,295.0,1363.24
+Parrotfish,Ocean/Sea,Arusha,Dry,Export,Grade B,11.48,7,10,567.5,27544.31
+Electric Catfish,Freshwater,Arusha,Dry,Local Market,Grade A,11.71,2,219,39.1,16013.81
+Sea Bass,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade B,9.95,5,138,558.9,17092.45
+Lobster,Ocean/Sea,Pemba,Rainy,Wholesale,Grade B,13.0,6,289,35.1,26377.36
+Octopus,Ocean/Sea,Pemba,Rainy,Restaurant/Hotel,Grade A,4.83,2,130,330.6,20720.21
+Sailfish,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,11.19,0,341,534.8,28027.11
+Tuna,Ocean/Sea,Mwanza,Rainy,Local Market,Grade C,7.63,4,178,161.3,13370.5
+Grouper,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade A,13.33,6,156,286.0,29333.3
+Barracuda,Ocean/Sea,Arusha,Dry,Local Market,Grade B,3.08,2,335,198.0,16519.36
+Red Mullet,Ocean/Sea,Arusha,Rainy,Local Market,Grade C,11.55,0,30,571.5,14411.15
+Grouper,Ocean/Sea,Mwanza,Dry,Restaurant/Hotel,Grade C,3.95,3,387,495.1,18527.19
+Sea Bream,Ocean/Sea,Arusha,Dry,Local Market,Grade C,5.79,2,119,426.9,14013.65
+Parrotfish,Ocean/Sea,Lindi,Dry,Local Market,Grade B,4.61,5,386,354.6,13358.56
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade C,3.9,5,288,493.3,9629.93
+Sardine,Freshwater,Kilwa,Rainy,Export,Grade B,16.57,5,391,238.4,8909.52
+Sea Bream,Ocean/Sea,Arusha,Dry,Wholesale,Grade A,5.93,6,79,271.3,16632.73
+Mackerel,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,18.56,7,170,439.4,16291.56
+Parrotfish,Ocean/Sea,Lindi,Dry,Export,Grade B,19.41,7,193,217.9,29418.63
+Carp,Freshwater,Arusha,Rainy,Local Market,Grade A,11.55,4,82,43.0,11207.87
+Red Snapper,Ocean/Sea,Lindi,Dry,Local Market,Grade B,3.12,2,94,49.2,17893.79
+Mackerel,Ocean/Sea,Dodoma,Rainy,Restaurant/Hotel,Grade B,7.68,3,180,73.6,14492.71
+Nile Perch,Freshwater,Kilwa,Rainy,Local Market,Grade A,16.02,2,25,522.5,23107.29
+Sea Bream,Ocean/Sea,Tanga,Dry,Export,Grade B,7.54,4,58,286.0,28998.06
+Sea Bream,Ocean/Sea,Zanzibar,Dry,Export,Grade B,2.01,0,188,429.2,28532.53
+Nile Perch,Freshwater,Zanzibar,Rainy,Local Market,Grade B,11.27,4,363,238.8,15306.85
+Prawns,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade A,16.95,5,226,158.9,31822.3
+Tilapia,Freshwater,Lindi,Rainy,Local Market,Grade A,15.98,6,319,211.6,14524.24
+Swordfish,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,3.75,0,332,477.5,16900.74
+Lobster,Ocean/Sea,Zanzibar,Dry,Restaurant/Hotel,Grade C,13.55,6,183,377.0,45553.23
+Crab,Ocean/Sea,Lindi,Dry,Export,Grade A,4.64,5,280,562.9,42308.34
+Electric Catfish,Freshwater,Lindi,Rainy,Restaurant/Hotel,Grade B,4.6,1,116,409.4,10756.48
+Octopus,Ocean/Sea,Mtwara,Rainy,Local Market,Grade A,17.52,4,228,344.3,21045.01
+Mackerel,Ocean/Sea,Mtwara,Rainy,Export,Grade B,5.22,4,218,368.1,12526.37
+Nile Perch,Freshwater,Tanga,Rainy,Local Market,Grade C,5.49,3,63,565.7,8916.39
+Lobster,Ocean/Sea,Dodoma,Dry,Wholesale,Grade B,0.31,2,331,474.0,27203.65
+Nile Tilapia,Freshwater,Tanga,Dry,Restaurant/Hotel,Grade A,17.45,0,397,19.3,24329.39
+Sardine,Freshwater,Arusha,Dry,Local Market,Grade B,15.91,7,113,322.8,10017.45
+Swordfish,Ocean/Sea,Mwanza,Dry,Wholesale,Grade A,12.66,6,389,414.6,30294.27
+Parrotfish,Ocean/Sea,Arusha,Dry,Local Market,Grade B,15.08,0,161,450.5,23239.88
+Dagaa,Freshwater,Pemba,Rainy,Export,Grade B,3.3,3,195,131.8,5141.9
+Red Snapper,Ocean/Sea,Arusha,Dry,Export,Grade A,9.33,3,204,521.0,37951.43
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Restaurant/Hotel,Grade A,7.22,6,316,573.7,30632.34
+Lobster,Ocean/Sea,Arusha,Dry,Export,Grade B,2.15,7,200,145.8,61717.62
+Grouper,Ocean/Sea,Tanga,Dry,Local Market,Grade C,9.88,2,39,530.2,17493.83
+Sardine,Freshwater,Zanzibar,Dry,Local Market,Grade C,18.44,6,383,62.7,10466.63
+Swordfish,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade A,1.09,6,391,38.1,24184.63
+Crab,Ocean/Sea,Mtwara,Rainy,Local Market,Grade B,6.04,5,250,81.9,18517.95
+Squid,Ocean/Sea,Mwanza,Rainy,Local Market,Grade B,4.39,7,241,39.4,8107.1
+Sardine,Freshwater,Mwanza,Dry,Wholesale,Grade B,4.99,2,108,507.8,5427.24
+Prawns,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade B,18.2,4,11,40.1,38954.39
+Barracuda,Ocean/Sea,Tanga,Rainy,Export,Grade C,9.52,5,287,166.6,17595.31
+Squid,Ocean/Sea,Mtwara,Dry,Local Market,Grade C,9.49,1,5,66.7,12358.26
+Sea Bass,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,15.28,7,223,180.8,20496.89
+Sardine,Freshwater,Mwanza,Dry,Wholesale,Grade B,3.34,2,234,58.9,2530.86
+Red Snapper,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,9.9,3,176,402.5,15224.48
+Lobster,Ocean/Sea,Arusha,Rainy,Wholesale,Grade A,8.77,5,91,84.3,29816.07
+Sea Bream,Ocean/Sea,Arusha,Dry,Export,Grade B,12.06,2,45,511.8,33450.08
+Sea Bream,Ocean/Sea,Mtwara,Dry,Local Market,Grade B,19.99,0,127,491.2,28410.93
+Lobster,Ocean/Sea,Tanga,Rainy,Export,Grade B,15.46,6,335,13.1,52274.52
+Mackerel,Ocean/Sea,Tanga,Rainy,Export,Grade A,8.14,1,302,538.0,18208.86
+Nile Tilapia,Freshwater,Dodoma,Dry,Local Market,Grade A,16.6,4,377,22.2,19243.22
+Catfish,Freshwater,Kilwa,Dry,Restaurant/Hotel,Grade C,3.66,6,182,147.6,5396.4
+Nile Perch,Freshwater,Mwanza,Rainy,Wholesale,Grade A,0.9,0,67,24.3,9449.7
+Sardine,Freshwater,Tanga,Dry,Wholesale,Grade B,4.33,0,169,204.8,7293.93
+Parrotfish,Ocean/Sea,Zanzibar,Rainy,Export,Grade A,7.01,1,191,310.8,23550.94
+Sea Bream,Ocean/Sea,Mtwara,Rainy,Export,Grade A,10.36,4,387,479.0,29642.62
+Tuna,Ocean/Sea,Pemba,Rainy,Wholesale,Grade A,12.42,3,213,206.1,19016.51
+Swordfish,Ocean/Sea,Dodoma,Rainy,Export,Grade A,18.24,5,231,424.8,51615.05
+Sardine,Freshwater,Lindi,Dry,Local Market,Grade C,10.34,7,393,116.6,5204.29
+Catfish,Freshwater,Dar es Salaam,Dry,Export,Grade A,10.18,4,52,451.6,18394.16
+Tilapia,Freshwater,Pemba,Rainy,Wholesale,Grade C,1.29,7,228,145.4,1000.0
+Sea Bass,Ocean/Sea,Lindi,Rainy,Export,Grade B,0.99,2,7,90.4,21567.17
+Tuna,Ocean/Sea,Arusha,Rainy,Local Market,Grade B,11.16,0,376,115.3,18894.2
+Sea Bream,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,8.93,2,179,113.3,14451.33
+Grouper,Ocean/Sea,Mwanza,Rainy,Local Market,Grade B,16.83,3,103,310.2,22308.17
+Sea Bream,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,3.47,2,120,507.7,17666.01
+Nile Perch,Freshwater,Dar es Salaam,Dry,Local Market,Grade A,0.79,4,274,52.4,16219.96
+Red Mullet,Ocean/Sea,Kilwa,Dry,Local Market,Grade B,9.15,2,372,425.6,18935.76
+Sardine,Freshwater,Lindi,Dry,Wholesale,Grade C,4.98,3,257,394.3,2316.41
+Octopus,Ocean/Sea,Mwanza,Rainy,Export,Grade C,1.28,3,321,524.1,11669.76
+Catfish,Freshwater,Kilwa,Rainy,Local Market,Grade C,14.57,3,99,150.3,11079.68
+Lobster,Ocean/Sea,Arusha,Rainy,Wholesale,Grade B,2.5,4,277,272.8,21103.27
+Red Mullet,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade B,12.28,3,384,555.9,13263.83
+Lobster,Ocean/Sea,Dodoma,Rainy,Wholesale,Grade B,5.84,0,28,397.7,27386.76
+Parrotfish,Ocean/Sea,Dodoma,Dry,Local Market,Grade B,3.72,6,120,236.3,12121.94
+Tilapia,Freshwater,Mtwara,Rainy,Export,Grade A,7.78,3,155,83.2,15489.26
+Barracuda,Ocean/Sea,Pemba,Dry,Restaurant/Hotel,Grade B,16.09,2,342,161.2,31007.37
+Yellowfin Tuna,Ocean/Sea,Pemba,Dry,Wholesale,Grade A,8.02,5,54,350.8,23955.94
+Sea Bass,Ocean/Sea,Mwanza,Dry,Local Market,Grade B,15.09,2,210,432.3,24326.27
+Red Mullet,Ocean/Sea,Arusha,Dry,Local Market,Grade C,2.77,5,339,79.0,7908.86
+Red Snapper,Ocean/Sea,Tanga,Rainy,Export,Grade A,15.52,2,83,361.8,32173.56
+Sailfish,Ocean/Sea,Dodoma,Dry,Restaurant/Hotel,Grade A,4.97,4,74,332.5,44918.95
+Dagaa,Freshwater,Mwanza,Dry,Export,Grade A,13.64,2,31,310.8,15034.39
+Nile Perch,Freshwater,Tanga,Dry,Export,Grade C,11.45,4,275,415.6,20214.34
+Nile Perch,Freshwater,Pemba,Rainy,Local Market,Grade B,18.6,4,54,503.3,18706.92
+Grouper,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade B,7.93,3,296,197.2,13122.83
+Kingfish,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade C,1.6,0,251,534.0,9402.15
+Sardine,Freshwater,Dodoma,Dry,Export,Grade C,0.68,5,268,100.6,1023.58
+Red Snapper,Ocean/Sea,Mwanza,Dry,Wholesale,Grade B,16.59,3,83,107.9,20803.24
+Dagaa,Freshwater,Dar es Salaam,Rainy,Restaurant/Hotel,Grade B,10.64,3,391,163.7,8651.3
+Nile Perch,Freshwater,Tanga,Dry,Local Market,Grade B,15.57,6,194,76.1,20631.94
+Nile Perch,Freshwater,Kilwa,Rainy,Export,Grade B,4.92,4,51,142.0,19069.54
+Electric Catfish,Freshwater,Dodoma,Rainy,Local Market,Grade A,7.1,4,365,68.3,10052.87
+Tuna,Ocean/Sea,Pemba,Dry,Wholesale,Grade C,0.89,5,358,493.9,8322.95
+Kingfish,Ocean/Sea,Arusha,Dry,Export,Grade B,19.24,2,356,87.7,38769.77
+Red Snapper,Ocean/Sea,Tanga,Dry,Export,Grade A,13.46,2,193,449.6,40425.35
+Octopus,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,18.68,7,260,33.5,17315.29
+Red Snapper,Ocean/Sea,Dodoma,Rainy,Export,Grade A,5.53,3,226,569.4,26608.35
+Squid,Ocean/Sea,Tanga,Rainy,Restaurant/Hotel,Grade A,12.35,7,376,428.1,18520.25
+Tilapia,Freshwater,Kilwa,Rainy,Export,Grade B,13.67,1,245,9.0,16354.66
+Grouper,Ocean/Sea,Dodoma,Rainy,Local Market,Grade A,6.56,1,273,459.5,22925.39
+Sailfish,Ocean/Sea,Lindi,Rainy,Wholesale,Grade B,17.01,7,5,310.9,19520.61
+Dagaa,Freshwater,Mwanza,Dry,Wholesale,Grade B,18.96,2,38,468.7,14119.32
+Parrotfish,Ocean/Sea,Kilwa,Rainy,Local Market,Grade A,17.73,1,83,315.9,24423.28
+Barracuda,Ocean/Sea,Tanga,Rainy,Wholesale,Grade C,14.86,6,240,386.4,12805.29
+Sea Bream,Ocean/Sea,Arusha,Rainy,Restaurant/Hotel,Grade A,5.77,2,338,472.9,22676.4
+Electric Catfish,Freshwater,Pemba,Dry,Local Market,Grade B,5.85,4,381,246.0,9745.08
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Restaurant/Hotel,Grade B,19.28,3,353,6.6,34109.47
+Tuna,Ocean/Sea,Pemba,Dry,Local Market,Grade A,0.5,0,102,510.7,24983.45
+Sea Bream,Ocean/Sea,Tanga,Dry,Local Market,Grade A,14.41,3,86,231.6,28441.84
+Tilapia,Freshwater,Pemba,Rainy,Local Market,Grade B,14.21,7,196,300.1,11704.31
+Grouper,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade C,12.57,2,257,9.6,13084.93
+Carp,Freshwater,Dodoma,Dry,Wholesale,Grade A,19.81,7,42,297.8,14984.14
+Nile Tilapia,Freshwater,Dar es Salaam,Dry,Local Market,Grade B,6.44,6,18,592.0,11126.19
+Catfish,Freshwater,Zanzibar,Rainy,Export,Grade B,7.0,2,396,170.6,10108.01
+Sea Bream,Ocean/Sea,Tanga,Rainy,Export,Grade C,1.86,3,351,240.3,12674.99
+Mackerel,Ocean/Sea,Mtwara,Dry,Local Market,Grade B,9.02,6,314,413.9,11897.87
+Sailfish,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade B,5.44,6,390,489.8,16551.81
+Octopus,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,7.06,6,213,253.3,13999.1
+Kingfish,Ocean/Sea,Tanga,Dry,Export,Grade B,16.74,5,361,189.3,35726.05
+Red Mullet,Ocean/Sea,Lindi,Rainy,Restaurant/Hotel,Grade C,18.73,2,93,563.0,20858.35
+Catfish,Freshwater,Mtwara,Rainy,Export,Grade A,3.96,1,60,407.9,13335.75
+Crab,Ocean/Sea,Dar es Salaam,Rainy,Restaurant/Hotel,Grade B,7.64,1,98,75.8,24319.08
+Mackerel,Ocean/Sea,Arusha,Dry,Wholesale,Grade C,18.59,2,97,46.0,14685.03
+Crab,Ocean/Sea,Lindi,Dry,Export,Grade C,1.52,2,344,292.7,21211.65
+Catfish,Freshwater,Zanzibar,Rainy,Local Market,Grade C,2.12,5,89,136.0,1980.13
+Tuna,Ocean/Sea,Dodoma,Rainy,Wholesale,Grade B,3.51,1,249,156.1,11922.8
+Sardine,Freshwater,Mwanza,Rainy,Export,Grade B,12.03,2,26,527.2,12353.1
+Carp,Freshwater,Arusha,Rainy,Local Market,Grade B,3.26,2,295,58.3,3783.64
+Red Mullet,Ocean/Sea,Lindi,Dry,Local Market,Grade B,19.37,7,276,430.6,23632.46
+Dagaa,Freshwater,Dodoma,Rainy,Export,Grade A,9.1,5,310,166.3,8138.18
+Barracuda,Ocean/Sea,Dodoma,Rainy,Export,Grade B,10.18,5,126,457.4,23100.49
+Dagaa,Freshwater,Tanga,Rainy,Wholesale,Grade B,5.16,3,132,434.8,3973.21
+Lobster,Ocean/Sea,Lindi,Rainy,Wholesale,Grade A,9.58,5,117,9.4,32969.67
+Catfish,Freshwater,Dar es Salaam,Rainy,Local Market,Grade B,13.34,0,277,307.9,10235.06
+Sailfish,Ocean/Sea,Pemba,Rainy,Wholesale,Grade B,15.1,1,340,87.9,20293.48
+Barracuda,Ocean/Sea,Mtwara,Rainy,Local Market,Grade C,15.15,3,134,520.4,15622.59
+Nile Tilapia,Freshwater,Mtwara,Dry,Wholesale,Grade A,11.68,0,136,523.6,16176.44
+Red Mullet,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade A,18.12,2,89,253.9,24236.27
+Parrotfish,Ocean/Sea,Zanzibar,Dry,Export,Grade B,16.4,7,354,269.4,26014.52
+Sardine,Freshwater,Mtwara,Dry,Wholesale,Grade A,15.21,7,394,185.5,8855.18
+Red Snapper,Ocean/Sea,Dar es Salaam,Rainy,Local Market,Grade B,1.4,2,85,431.4,10603.03
+Barracuda,Ocean/Sea,Mwanza,Dry,Export,Grade B,0.44,3,329,218.4,26047.59
+Parrotfish,Ocean/Sea,Kilwa,Dry,Wholesale,Grade A,4.49,5,73,164.3,12798.39
+Octopus,Ocean/Sea,Pemba,Rainy,Export,Grade B,13.37,6,152,262.2,22376.49
+Parrotfish,Ocean/Sea,Mwanza,Rainy,Export,Grade B,8.4,7,20,59.4,19675.81
+Crab,Ocean/Sea,Tanga,Dry,Export,Grade B,8.23,6,311,449.2,35212.53
+Dagaa,Freshwater,Kilwa,Dry,Wholesale,Grade C,17.73,2,109,12.5,11591.09
+Carp,Freshwater,Kilwa,Rainy,Local Market,Grade C,17.94,6,169,388.5,10235.42
+Barracuda,Ocean/Sea,Lindi,Dry,Local Market,Grade B,18.21,4,205,113.8,25938.9
+Barracuda,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,6.48,3,201,143.3,11985.48
+Sea Bass,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,13.91,0,189,383.2,17122.15
+Lobster,Ocean/Sea,Kilwa,Rainy,Local Market,Grade C,5.65,3,326,595.8,22412.34
+Crab,Ocean/Sea,Lindi,Rainy,Local Market,Grade B,4.06,1,269,467.7,15108.31
+Swordfish,Ocean/Sea,Pemba,Dry,Local Market,Grade B,3.94,5,367,139.4,27968.45
+Octopus,Ocean/Sea,Kilwa,Rainy,Local Market,Grade C,7.04,5,104,109.7,8186.11
+Yellowfin Tuna,Ocean/Sea,Arusha,Rainy,Export,Grade A,8.77,3,346,520.4,41618.8
+Grouper,Ocean/Sea,Zanzibar,Dry,Wholesale,Grade C,16.67,2,324,269.3,18833.09
+Barracuda,Ocean/Sea,Zanzibar,Rainy,Wholesale,Grade A,2.66,2,218,86.5,10699.22
+Catfish,Freshwater,Mwanza,Dry,Export,Grade B,14.78,4,282,518.0,16979.07
+Red Snapper,Ocean/Sea,Tanga,Dry,Export,Grade B,10.77,4,166,490.6,29236.58
+Carp,Freshwater,Zanzibar,Dry,Wholesale,Grade C,5.97,5,161,590.4,3067.02
+Grouper,Ocean/Sea,Dodoma,Rainy,Export,Grade C,10.01,4,255,546.3,19517.1
+Red Snapper,Ocean/Sea,Mwanza,Dry,Restaurant/Hotel,Grade B,6.21,7,370,511.8,20708.01
+Carp,Freshwater,Zanzibar,Dry,Export,Grade B,12.04,7,101,36.3,13631.47
+Nile Tilapia,Freshwater,Tanga,Rainy,Local Market,Grade B,8.85,0,22,67.1,12301.65
+Squid,Ocean/Sea,Dar es Salaam,Dry,Wholesale,Grade C,3.54,4,331,343.5,5388.92
+Sea Bass,Ocean/Sea,Dar es Salaam,Dry,Local Market,Grade B,2.6,0,387,321.2,18967.5
+Grouper,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,11.07,4,101,277.5,19760.32
+Sea Bream,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,18.08,5,5,241.1,31046.89
+Prawns,Ocean/Sea,Arusha,Dry,Local Market,Grade B,7.08,5,220,261.6,26872.92
+Lobster,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,14.74,0,136,343.7,29300.63
+Mackerel,Ocean/Sea,Lindi,Dry,Local Market,Grade B,13.28,3,264,6.2,15123.61
+Sardine,Freshwater,Zanzibar,Dry,Wholesale,Grade A,18.65,5,129,160.1,12640.94
+Dagaa,Freshwater,Lindi,Rainy,Local Market,Grade C,16.47,3,86,313.4,8497.21
+Red Snapper,Ocean/Sea,Tanga,Rainy,Export,Grade A,11.46,2,287,434.7,29804.0
+Crab,Ocean/Sea,Dar es Salaam,Rainy,Wholesale,Grade B,13.24,7,175,108.6,16980.01
+Sea Bass,Ocean/Sea,Arusha,Dry,Export,Grade C,18.0,0,63,330.4,33051.69
+Yellowfin Tuna,Ocean/Sea,Tanga,Rainy,Local Market,Grade B,8.17,6,36,430.1,20647.63
+Mackerel,Ocean/Sea,Dodoma,Dry,Local Market,Grade A,6.74,5,165,269.6,15316.71
+Catfish,Freshwater,Dodoma,Dry,Local Market,Grade B,0.51,1,288,21.1,7819.3
+Mackerel,Ocean/Sea,Lindi,Rainy,Local Market,Grade C,16.58,2,110,272.3,14806.86
+Parrotfish,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade B,16.08,3,109,181.4,16437.64
+Lobster,Ocean/Sea,Mwanza,Dry,Restaurant/Hotel,Grade C,2.36,5,232,558.1,36244.09
+Crab,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade A,11.66,0,192,79.1,22478.32
+Nile Tilapia,Freshwater,Pemba,Dry,Wholesale,Grade B,9.44,6,74,393.2,9535.25
+Octopus,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade B,2.64,4,322,36.4,6703.72
+Mackerel,Ocean/Sea,Pemba,Rainy,Wholesale,Grade C,19.62,6,294,270.5,11584.61
+Tuna,Ocean/Sea,Pemba,Rainy,Local Market,Grade A,4.53,1,91,334.6,21245.4
+Sea Bream,Ocean/Sea,Arusha,Dry,Restaurant/Hotel,Grade C,1.62,3,374,182.3,15724.28
+Nile Tilapia,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade B,12.02,2,366,275.8,9600.89
+Squid,Ocean/Sea,Arusha,Dry,Export,Grade B,14.86,6,60,102.3,23864.32
+Sea Bream,Ocean/Sea,Pemba,Dry,Local Market,Grade A,0.94,0,117,186.0,21001.95
+Sardine,Freshwater,Tanga,Dry,Export,Grade C,13.28,1,17,374.6,12772.6
+Dagaa,Freshwater,Dodoma,Dry,Export,Grade A,10.79,0,22,184.6,13202.39
+Parrotfish,Ocean/Sea,Pemba,Rainy,Wholesale,Grade B,2.33,5,186,540.3,5466.24
+Kingfish,Ocean/Sea,Arusha,Dry,Export,Grade A,3.7,4,117,378.9,36841.84
+Kingfish,Ocean/Sea,Tanga,Dry,Export,Grade C,11.49,2,233,266.0,26629.36
+Sailfish,Ocean/Sea,Arusha,Rainy,Restaurant/Hotel,Grade B,6.14,0,175,28.1,26645.98
+Prawns,Ocean/Sea,Kilwa,Dry,Local Market,Grade B,18.78,3,299,302.2,32936.76
+Red Snapper,Ocean/Sea,Zanzibar,Rainy,Export,Grade A,16.43,5,193,460.0,31316.76
+Carp,Freshwater,Lindi,Dry,Local Market,Grade B,19.68,5,83,163.0,15525.13
+Tuna,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,5.42,2,150,485.0,13255.84
+Sea Bream,Ocean/Sea,Arusha,Dry,Restaurant/Hotel,Grade C,19.4,5,186,154.8,25178.49
+Red Snapper,Ocean/Sea,Mwanza,Rainy,Local Market,Grade C,8.8,3,290,495.1,11142.55
+Barracuda,Ocean/Sea,Mtwara,Dry,Wholesale,Grade A,7.15,0,254,55.7,18815.89
+Lungfish,Freshwater,Arusha,Dry,Local Market,Grade B,1.29,2,358,520.4,5715.51
+Nile Tilapia,Freshwater,Zanzibar,Rainy,Restaurant/Hotel,Grade A,1.34,7,318,302.0,6276.25
+Squid,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,13.93,5,200,181.4,12144.54
+Octopus,Ocean/Sea,Pemba,Rainy,Wholesale,Grade A,9.32,5,327,162.7,13423.32
+Electric Catfish,Freshwater,Arusha,Rainy,Local Market,Grade B,4.76,3,75,262.0,7786.16
+Tuna,Ocean/Sea,Dar es Salaam,Dry,Restaurant/Hotel,Grade B,12.4,4,252,599.4,33965.42
+Carp,Freshwater,Lindi,Dry,Wholesale,Grade B,5.28,4,150,136.1,4803.36
+Sailfish,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,11.68,6,110,66.4,21233.5
+Yellowfin Tuna,Ocean/Sea,Mwanza,Dry,Wholesale,Grade B,7.38,5,267,353.1,20215.42
+Sea Bream,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,16.52,7,300,295.7,17094.87
+Tilapia,Freshwater,Tanga,Rainy,Wholesale,Grade A,16.47,0,74,316.9,16061.21
+Sardine,Freshwater,Lindi,Dry,Local Market,Grade B,9.7,2,197,401.8,10424.4
+Sardine,Freshwater,Pemba,Dry,Wholesale,Grade A,7.21,5,72,164.0,6537.57
+Lungfish,Freshwater,Arusha,Dry,Export,Grade B,7.44,1,309,546.8,12394.9
+Grouper,Ocean/Sea,Arusha,Dry,Local Market,Grade B,16.17,2,56,264.2,30391.23
+Electric Catfish,Freshwater,Arusha,Dry,Local Market,Grade B,6.77,6,374,81.8,9154.71
+Lobster,Ocean/Sea,Lindi,Dry,Local Market,Grade A,4.42,4,367,446.7,51940.53
+Octopus,Ocean/Sea,Dar es Salaam,Dry,Export,Grade B,1.97,7,289,387.6,21048.37
+Nile Perch,Freshwater,Mtwara,Rainy,Local Market,Grade C,9.49,5,338,192.9,9679.86
+Swordfish,Ocean/Sea,Dodoma,Rainy,Export,Grade B,9.8,3,13,374.8,38139.13
+Sea Bass,Ocean/Sea,Kilwa,Rainy,Local Market,Grade B,16.87,1,255,135.8,22866.99
+Barracuda,Ocean/Sea,Mwanza,Rainy,Local Market,Grade B,4.66,5,336,269.7,12904.18
+Nile Tilapia,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade A,7.81,7,302,540.2,6170.22
+Crab,Ocean/Sea,Pemba,Dry,Local Market,Grade B,16.23,6,188,84.5,26566.01
+Octopus,Ocean/Sea,Mwanza,Rainy,Restaurant/Hotel,Grade B,16.53,0,183,235.1,24363.92
+Catfish,Freshwater,Arusha,Rainy,Wholesale,Grade A,7.88,1,202,493.6,7344.73
+Catfish,Freshwater,Zanzibar,Rainy,Wholesale,Grade A,9.34,6,132,581.8,6665.66
+Lungfish,Freshwater,Pemba,Rainy,Export,Grade A,6.27,5,24,275.1,10416.42
+Grouper,Ocean/Sea,Mwanza,Rainy,Wholesale,Grade B,18.67,0,332,306.7,20710.98
+Red Snapper,Ocean/Sea,Arusha,Rainy,Local Market,Grade C,2.64,1,69,345.4,10024.15
+Swordfish,Ocean/Sea,Mwanza,Rainy,Local Market,Grade A,18.69,0,186,559.7,39548.71
+Nile Tilapia,Freshwater,Zanzibar,Dry,Local Market,Grade B,13.77,0,245,515.6,15964.19
+Yellowfin Tuna,Ocean/Sea,Arusha,Dry,Wholesale,Grade A,10.77,1,373,106.5,28522.72
+Tuna,Ocean/Sea,Mtwara,Rainy,Local Market,Grade C,0.94,1,28,264.9,10955.39
+Sea Bream,Ocean/Sea,Dar es Salaam,Dry,Export,Grade A,9.67,0,388,281.1,36840.56
+Grouper,Ocean/Sea,Tanga,Dry,Restaurant/Hotel,Grade B,8.33,6,87,474.5,28172.11
+Nile Tilapia,Freshwater,Kilwa,Dry,Wholesale,Grade B,3.48,7,323,363.7,4876.01
+Dagaa,Freshwater,Lindi,Dry,Export,Grade B,13.23,4,189,394.3,11760.49
+Octopus,Ocean/Sea,Kilwa,Rainy,Local Market,Grade B,19.43,1,320,598.9,21813.61
+Octopus,Ocean/Sea,Pemba,Dry,Wholesale,Grade B,11.38,5,103,49.6,15200.69
+Sailfish,Ocean/Sea,Kilwa,Dry,Export,Grade B,14.38,2,66,137.7,42269.17
+Sea Bream,Ocean/Sea,Arusha,Dry,Local Market,Grade A,1.65,3,290,247.7,19128.98
+Sea Bass,Ocean/Sea,Mtwara,Rainy,Local Market,Grade A,8.53,0,26,211.9,22370.99
+Electric Catfish,Freshwater,Tanga,Rainy,Restaurant/Hotel,Grade B,2.59,0,216,17.9,10838.77
+Carp,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade A,12.37,3,130,59.6,9338.38
+Nile Tilapia,Freshwater,Dar es Salaam,Rainy,Wholesale,Grade A,18.79,4,46,410.2,17196.03
+Nile Perch,Freshwater,Zanzibar,Rainy,Wholesale,Grade B,13.34,3,102,528.2,15363.64
+Dagaa,Freshwater,Lindi,Rainy,Export,Grade C,1.81,1,35,311.0,5025.7
+Octopus,Ocean/Sea,Mwanza,Rainy,Export,Grade B,7.29,3,162,325.8,19139.49
+Crab,Ocean/Sea,Mtwara,Dry,Export,Grade A,11.15,0,116,156.8,49772.89
+Barracuda,Ocean/Sea,Mwanza,Dry,Local Market,Grade A,8.24,3,251,461.9,24537.48
+Crab,Ocean/Sea,Tanga,Dry,Export,Grade C,16.72,2,126,452.3,32139.87
+Red Mullet,Ocean/Sea,Kilwa,Rainy,Wholesale,Grade A,16.35,5,277,355.1,16834.51
+Nile Perch,Freshwater,Dar es Salaam,Rainy,Export,Grade A,12.35,1,298,131.5,28210.16
+Lungfish,Freshwater,Tanga,Rainy,Wholesale,Grade B,7.66,3,211,62.7,5121.32
+Mackerel,Ocean/Sea,Kilwa,Rainy,Export,Grade B,5.33,0,114,43.2,13034.76
+Lungfish,Freshwater,Dar es Salaam,Rainy,Export,Grade B,2.39,6,282,357.7,7119.78
+Sea Bream,Ocean/Sea,Kilwa,Dry,Export,Grade A,7.29,5,60,495.9,37010.5
+Red Snapper,Ocean/Sea,Lindi,Dry,Export,Grade A,8.44,1,379,515.7,35516.87
+Octopus,Ocean/Sea,Mtwara,Rainy,Wholesale,Grade C,13.61,0,61,280.9,13560.98
+Octopus,Ocean/Sea,Pemba,Rainy,Local Market,Grade A,13.27,4,295,471.6,18770.14
+Prawns,Ocean/Sea,Tanga,Rainy,Export,Grade B,1.68,2,118,568.4,29561.74
+Mackerel,Ocean/Sea,Tanga,Rainy,Local Market,Grade B,8.09,7,385,168.7,8616.78
+Lobster,Ocean/Sea,Dodoma,Dry,Export,Grade B,3.88,4,389,241.8,64017.78
+Swordfish,Ocean/Sea,Arusha,Rainy,Export,Grade B,3.39,7,312,559.2,31889.73
+Mackerel,Ocean/Sea,Lindi,Rainy,Wholesale,Grade A,16.6,2,345,206.2,15144.0
+Kingfish,Ocean/Sea,Lindi,Rainy,Restaurant/Hotel,Grade B,1.13,3,202,548.8,18638.67
+Sardine,Freshwater,Mwanza,Rainy,Export,Grade C,8.56,1,325,588.7,5268.54
+Catfish,Freshwater,Kilwa,Dry,Wholesale,Grade C,3.61,3,183,398.8,2957.57
+Dagaa,Freshwater,Arusha,Rainy,Export,Grade A,17.62,2,389,491.0,12441.34
+Grouper,Ocean/Sea,Mtwara,Rainy,Export,Grade A,11.27,2,223,451.0,36032.26
+Sea Bass,Ocean/Sea,Mtwara,Dry,Local Market,Grade C,4.86,2,281,421.2,13435.41
+Crab,Ocean/Sea,Lindi,Dry,Local Market,Grade B,10.2,7,20,187.6,22304.04
+Sailfish,Ocean/Sea,Mtwara,Dry,Export,Grade C,14.71,5,383,39.0,31353.33
+Prawns,Ocean/Sea,Dodoma,Rainy,Export,Grade A,19.17,0,65,209.1,49229.25
+Carp,Freshwater,Tanga,Rainy,Local Market,Grade B,4.64,1,58,401.8,6001.27
+Barracuda,Ocean/Sea,Zanzibar,Dry,Local Market,Grade B,17.76,3,172,66.0,28249.14
+Squid,Ocean/Sea,Pemba,Dry,Local Market,Grade B,18.71,3,30,12.1,22043.14
+Prawns,Ocean/Sea,Mwanza,Dry,Restaurant/Hotel,Grade B,18.35,4,340,88.1,43058.96
+Nile Perch,Freshwater,Kilwa,Dry,Local Market,Grade A,12.82,7,69,430.9,22084.87
+Mackerel,Ocean/Sea,Pemba,Dry,Export,Grade B,12.71,2,104,583.8,23777.49
+Swordfish,Ocean/Sea,Kilwa,Dry,Local Market,Grade A,8.24,6,78,589.9,39969.87
+Swordfish,Ocean/Sea,Dar es Salaam,Rainy,Export,Grade B,15.12,2,196,298.9,41463.6
+Dagaa,Freshwater,Pemba,Rainy,Local Market,Grade C,10.77,2,175,522.3,6750.56
+Lobster,Ocean/Sea,Zanzibar,Rainy,Local Market,Grade B,13.65,6,277,443.4,32652.15
+Parrotfish,Ocean/Sea,Lindi,Dry,Export,Grade C,8.74,3,381,303.1,16135.99
+Crab,Ocean/Sea,Dodoma,Dry,Local Market,Grade A,14.71,4,191,345.8,32995.18
+Kingfish,Ocean/Sea,Tanga,Dry,Local Market,Grade B,16.54,0,27,86.7,27582.71
+Red Snapper,Ocean/Sea,Tanga,Dry,Local Market,Grade C,3.18,6,395,562.9,9484.08
+Tuna,Ocean/Sea,Dodoma,Dry,Local Market,Grade A,16.71,7,185,214.4,33243.18
+Lobster,Ocean/Sea,Arusha,Dry,Local Market,Grade A,10.94,5,331,270.5,54542.23
+Electric Catfish,Freshwater,Dar es Salaam,Rainy,Local Market,Grade B,16.94,1,112,404.6,16229.2
+Lungfish,Freshwater,Kilwa,Rainy,Wholesale,Grade A,8.8,7,339,203.7,4913.89
+Red Snapper,Ocean/Sea,Zanzibar,Dry,Export,Grade B,7.77,6,166,156.3,29124.6
+Red Mullet,Ocean/Sea,Mtwara,Rainy,Export,Grade C,18.33,0,306,380.5,23012.24
+Mackerel,Ocean/Sea,Pemba,Dry,Local Market,Grade B,5.25,3,210,19.9,9749.39
+Electric Catfish,Freshwater,Dar es Salaam,Rainy,Restaurant/Hotel,Grade A,16.93,5,82,433.8,21776.52
